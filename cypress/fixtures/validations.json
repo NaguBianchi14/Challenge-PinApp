@@ -1,0 +1,9 @@
+{
+    "checkout": {
+        "title": "Checkout: Your Information",
+        "overviewTitle": "Checkout: Overview",
+        "completeTitle": "Checkout: Complete!",
+        "thankYouMessage": "Thank you for your order!",
+        "infoMessage": "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+    }
+}

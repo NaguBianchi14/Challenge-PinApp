@@ -1,0 +1,21 @@
+{
+  "login": {
+    "user": "standard_user",
+    "pass": "secret_sauce",
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  "products": {
+    "sauce_labs_backpack": "sauce-labs-backpack",
+    "sauce_labs_bike_light": "sauce-labs-bike-light",
+    "sauce_labs_bolt_tshirt": "sauce-labs-bolt-t-shirt",
+    "sauce_labs_fleece_jacket": "sauce-labs-fleece-jacket",
+    "sauce_labs_onesie": "sauce-labs-onesie",
+    "test_allthethings_tshirt_red": "test.allthethings()-t-shirt-(red)"
+  },
+  "checkout": {
+    "first_name": "Nagu",
+    "last_name": "Bianchi",
+    "postal_code": "5000"
+  }
+}
